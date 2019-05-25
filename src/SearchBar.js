@@ -1,3 +1,4 @@
+import React from "react";
 import unique from "array-unique";
 
 class SearchBar extends React.Component {
