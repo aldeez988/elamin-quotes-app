@@ -57,7 +57,7 @@ class App extends React.Component {
     });
   };
 
-  //Set the ref for the div which containt share button so we can hide them and show them whenever we clicked the sgare button
+  //Set the ref for the div which contains share button so we can hide them and show them whenever we clicked the share button
   setDiv = div => {
     this.div = div;
   };
